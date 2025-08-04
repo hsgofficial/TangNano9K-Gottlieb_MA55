@@ -1,0 +1,25 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1NR-9C" pn="GW1NR-LV9QN88PC6/I5">gw1nr9c-004</Device>
+    <FileList>
+        <File path="proms/RRIOT_6530_sys80_prom.vhd" type="file.vhdl" enable="1"/>
+        <File path="proms/pinkpanther_snd_prom.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/MA_55.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/PS2/Debouncer.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/PS2/Keyboard.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/PS2/KeyboardMapper.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/PS2/PS2Controller.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/Sys80_snd_test.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/T65/T65.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/T65/T65_ALU.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/T65/T65_MCode.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/T65/T65_Pack.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/dac.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/gowin_rpll/gowin_rpll.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/riot.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/Gottlieb_MA55.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>
