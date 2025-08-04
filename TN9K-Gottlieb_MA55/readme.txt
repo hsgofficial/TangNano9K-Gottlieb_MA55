@@ -10,5 +10,5 @@ Build:
 * Run the make sound proms script in the tools folder.
 * Place the generated prom files inside the proms folder.
 * Open the Gottlieb_MA55 project file using Gowin and compile.
-
 * Program Tang Nano 9K Board.
+
